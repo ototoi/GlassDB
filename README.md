@@ -1,2 +1,6 @@
 # GlassDB
-GlassDB give a description of glass properties.
+GlassDB gives a description of glass properties.
+
+## Files
+
+ 
