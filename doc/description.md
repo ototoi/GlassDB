@@ -133,8 +133,9 @@ $sqlite3 ./data/glass.sqlite3
 ```sql
 CREATE TABLE t_glass_spec (
     id INTEGER PRIMARY KEY,
-    code TEXT,
+    maker TEXT,
     name TEXT,
+    code TEXT,
     n300 REAL,
     n310 REAL,
     n320 REAL,
