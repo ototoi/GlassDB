@@ -13,6 +13,7 @@
     - t_glass_spec_hoya
     - t_glass_spec_ohara
     - t_glass_spec_hikari
+    - t_glass_spec_schott
 - t_maker
 
 ## スキーマ
