@@ -1,6 +1,3 @@
-import scipy.interpolate
-import numpy as np
-import matplotlib.pyplot as plt
 import sqlite3
 
 id_origin = 40000

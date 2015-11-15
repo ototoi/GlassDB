@@ -49,7 +49,7 @@ fetched = c.fetchall()
 for row in fetched:
     name = row[2]
     #print(name)
-    ny = list(row)[3:21]
+    ny = list(row)[3:20]
     ll = get_valid_list(nx, ny)
     print(ll)
     xxx = [float(a) for (a,b) in ll]
